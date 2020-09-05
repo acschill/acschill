@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev O
 - `.json`, `.yml`
 - `.sql`, `.psql`, `mongo`
 - `.scss`, `.html`
-- `.svg`, `.png`
 
 ### 💻 Working on
 - Building projects and my portfolio website. 
