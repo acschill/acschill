@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev O
 - `Docker`
 - `Terraform (w/ AWS resource automation)`
 - `Icinga2`, `Zabbix`
-- `linux (debian, redhat, arch)`
+- `Linux OS (Debian, Redhat, Arch)`
 - `.json`, `.yml`
 - `.sql`, `.psql`, `mongo`
 - `.scss`, `.html`
