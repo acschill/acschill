@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev O
 - ReactJS for expanding my frontend capabilities
 
 ### ⚙️ Frequently used: 
-- `.py`
+- `.py`, `.ipy`
 - `.js`, `.ts`
 - `.java`, `.javac`, `.jar`
 - `.c`, `.cpp`
