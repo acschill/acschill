@@ -27,5 +27,6 @@ Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev O
 - I have a 9 year old Boxer named Tyson who has a talent for find the most comfortable spot in any room.
 
 ### ☕ Get in touch
+- Business email: acschill.dev@gmail.com
 - LinkedIn: <a href = "https://www.linkedin.com/in/alexschill/">alexschill</a>
 - Website: coming soon
