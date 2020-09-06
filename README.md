@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev Ops Engineer in New Orleans, Louisiana. In addition to my Dev Ops background, I have a solid background in physics based simulations, front and backend development, and knowledge of various automation frameworks such as Ansible.
+Welcome to my GitHub! I'm Alex, a Physics graduate (CS minor) working as a Dev Ops Engineer in New Orleans, Louisiana. In addition to my Dev Ops background, I have a solid background in physics based simulations, front and backend development, and knowledgeable in various server and software side automation frameworks such as Ansible and Terraform.
 
 ### ✔️ Currently learning
 - Artificial Neural Network implementations
